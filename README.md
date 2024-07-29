@@ -10,6 +10,7 @@ BMI: Body Mass Index, which measures body fat based on height and weight.
 Children: The number of children or dependents covered by the insurance.
 Smoker: Whether the individual is a smoker or not.
 Region: The geographic location of the individual.
+
 Dataset:
 The dataset used for this project is sourced from Kaggle and GitHub. It contains detailed records with attributes relevant to predicting insurance costs. The dataset is cleaned and preprocessed to ensure accurate and reliable model predictions.
 
